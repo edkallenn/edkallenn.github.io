@@ -45,10 +45,10 @@
 *	**Mestrado em andamento em Ciência da Computação. Universidade Federal do Acre, UFAC**. *Projeto: “Mineração de dados e aprendizagem de máquina na detecção de conflitos diretos e indiretos entre políticas de controle de acesso”*
 *	**Mestrado em Informática pela UFAM** (Universidade Federal do Amazonas – Conceito CAPES 5 – __Incompleto__)
 *	**Pós-graduado, lato sensu, em Computação Forense.** (Carga Horária: 360h). Faculdade Barão do Rio Branco, UNINORTE, Brasil. Título da Monografia: *“Perícia Forense em sistemas GNU/LINUX usando programação em shell script”.* Orientadora: [Dra. Andreia Cristiane Stanger. ]((http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4732443D0)).2013-2015.
-*	Participante do X Seminário de Iniciação Científica/PIBIC-CNPq-UFAC, realizado em Rio Branco entre 02 e 06 de julho/2001, como bolsista do Programa PIBIC 2000/2001, apresentando o trabalho “Resolução e Implementação de Sistemas Lineares determinados através dos métodos diretos e iterativos utilizando a linguagem C/C++”, na modalidade de exposição oral e painel.
-*	Pós-Graduado, lato sensu em “MBA em Desenvolvimento Web” no IESAB - Instituto de Ensino Superior de Barreiras, 2007. Monografia: “Expressões Regulares: Conceitos, usos e aplicações na WEB”. (incompleto)
-*	Bacharel em Sistemas de Informação. UFAC. 2005. Título da Monografia: “Tecnologias Client-Side: Paradigma de animação e interatividade na Web”. Orientador: [Dra. Laura Costa Sarkis](http://lattes.cnpq.br/6846153302568344).2005.
-*	Discente de Comunicação Social/Jornalismo (UFAC – Incompleto - Cursado até o 3º ano/4º período).
+*	**Participante do X Seminário de Iniciação Científica/PIBIC-CNPq-UFAC**, realizado em Rio Branco entre 02 e 06 de julho/2001, como bolsista do Programa PIBIC 2000/2001, apresentando o *trabalho “Resolução e Implementação de Sistemas Lineares determinados através dos métodos diretos e iterativos utilizando a linguagem C/C++”*, na modalidade de exposição oral e painel.
+*	**Pós-Graduado, lato sensu em “MBA em Desenvolvimento Web” no IESAB - Instituto de Ensino Superior de Barreiras.** 2007. Monografia: *“Expressões Regulares: Conceitos, usos e aplicações na WEB”*. (__incompleto__)
+*	**Bacharel em Sistemas de Informação. UFAC**. 2005. *Título da Monografia: “Tecnologias Client-Side: Paradigma de animação e interatividade na Web”*. Orientador: [Dra. Laura Costa Sarkis](http://lattes.cnpq.br/6846153302568344).2005.
+*	**Discente de Comunicação Social/Jornalismo** (UFAC – __Incompleto__ - Cursado até o 3º ano/4º período).
 
 ## Licenças e Certificados
 * [CERTIFICAÇÃO LINUX LPI ESSENTIALS PARTE 1: EVOLUTION AND DISTRIBUTIONS](https://cursos.alura.com.br/certificate/f82c9e45-41cc-4180-a8f6-b379f3b441b3)
@@ -65,6 +65,18 @@
 * [Audiência Publica - Ensino à Distância: Benefícios e Desafios. 2018.](https://www.youtube.com/watch?v=E9FLF09BgFo&feature=youtu.be)
 * [Veja dicas para aumentar espaço na memória do celular. 2017.](http://g1.globo.com/ac/acre/acre-tv/videos/t/edicoes/v/veja-dicas-para-aumentar-espaco-na-memoria-do-celular/5883578/)
 * [Quase metade dos brasileiros fazem compras pela internet usando o celular, diz pesquisa. 2017.](http://g1.globo.com/ac/acre/acre-tv/videos/t/edicoes/v/quase-metade-dos-brasileiros-fazem-compras-pela-internet-usando-o-celular-diz-pesquisa/6082980/)
+
+## Experiência de voluntariado
+### Líder da RedeOusadia - a Rede de Jovens da IAA (Igreja Apostólica Acreana) (2011-2018)
+Atividades desenvolvidas:
+* Pregação/preleção semanal
+* Conselheiro e Acompanhamento psicológico e espiritual
+* Serviços sociais e espirituais
+* Coleta e distribuição de roupas e acessórios
+* Coleta e distribuição de brinquedos
+* Coleta e distribuição de alimentos
+* Acompanhamento pessoal
+* Atividades lúdicas com a juventude da igreja
 
 ## Cursos, estágios e Seminários.
 *	XLVIII Curso de Formação Profissional de Agente de Polícia Federal (regional). (Carga horária: 830h). Academia Nacional de Polícia. Departamento de Polícia Federal, DPF, Brasil. 2007.
