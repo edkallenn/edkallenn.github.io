@@ -16,12 +16,12 @@
 * **Vencedor**, junto com a equipe de programadores/Analistas do CGTI/SEJUSP em 1º lugar, do **__2º Prêmio Inovação de Gestão do Estado do Acre na Área Tecnologia da Informação e Atendimento ao Cidadão__** para o Sistema PIC - Pedido de Identificação Criminal. (2006/2007). O prêmio é outorgado às melhores soluções em TI no governo do estado do Acre.
 
 ## Apresentações de Trabalhos/Conferência ou Palestras:
-*	As Fake News e os mecanismos de detecção automáticos. Palestra na TechWeek 2018 – Semana de Informática do Instituto Federal do Acre. 2018.
-*	Fake News e o mito da pós-verdade. Palestra na II Semana De Tecnologia da Informação, Comunicação e Inovação da Uninorte. 25 de maio de 2018. Auditório da Uninorte. Acre.
-*	[Onde estão as mulheres na TI?](https://www.youtube.com/watch?v=bG6y_wodRNM) Palestra de abertura da I Semana de Tecnologia da Informação, Comunicação e Inovação da Uninorte/AC. 2017 – lima.eRio Branco – Acre.
-*	Alfabetização Digital. Palestra de abertura da TechWeek 2017 – Semana de Informática do Instituto Federal do Acre. 2017.
-*	Segurança da informação: proteção ou transtorno? Palestra na EMBRAPA/ACRE. Semana da Segurança de Informação. 2016. Rio Branco – Acre
-*	“Minha Trajetória Profissional”. Feira de Informação Profissional. Palestra em evento ocorrido na Fundação Bradesco, Rio Branco, Acre em 16/09/2016.
+*	**As Fake News e os mecanismos de detecção automáticos**. *Palestra na TechWeek 2018 – Semana de Informática do Instituto Federal do Acre*. 2018.
+*	**Fake News e o mito da pós-verdade**. *Palestra na II Semana De Tecnologia da Informação, Comunicação e Inovação da Uninorte*. 25 de maio de 2018. Auditório da Uninorte. Acre.
+*	**[Onde estão as mulheres na TI?](https://www.youtube.com/watch?v=bG6y_wodRNM)** *Palestra de abertura da I Semana de Tecnologia da Informação, Comunicação e Inovação da Uninorte/AC.* 2017 – Rio Branco – Acre.
+*	**Alfabetização Digital.** *Palestra de abertura da TechWeek 2017 – Semana de Informática do Instituto Federal do Acre*. 2017.
+*	**Segurança da informação: proteção ou transtorno?** *Palestra na EMBRAPA/ACRE. Semana da Segurança de Informação*. 2016. Rio Branco – Acre
+*	**“Minha Trajetória Profissional”.** *Feira de Informação Profissional. Palestra em evento ocorrido na Fundação Bradesco.* Rio Branco, Acre em 16/09/2016.
 
 ## Produção Bibliográfica:
 ### Livros publicados:
