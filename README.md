@@ -24,6 +24,7 @@
 *	**“Minha Trajetória Profissional”.** *Feira de Informação Profissional. Palestra em evento ocorrido na Fundação Bradesco.* Rio Branco, Acre em 16/09/2016.
 
 ## Produção Bibliográfica:
+
 ### Livros publicados:
 *	**Expressões Regulares: Conceitos, Usos e Aplicações na Web.** 1. ed. São Paulo: Amazon Serviços de Varejo do Brasil LTDA, 2020. v. 1. 70p. ISBN: 9798635708750. ASIN (Edição digital): B086XMJ4B9. [Link para o livro](https://www.amazon.com.br/Express%C3%B5es-Regulares-Conceitos-Aplica%C3%A7%C3%B5es-Aprenda-ebook/dp/B086XMJ4B9)
 ### Textos em jornais de notícias/revistas:
