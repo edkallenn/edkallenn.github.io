@@ -25,11 +25,11 @@
 
 ## Produção Bibliográfica:
 ### Livros publicados:
-*	Expressões Regulares: Conceitos, Usos e Aplicações na Web. 1. ed. São Paulo: Amazon Serviços de Varejo do Brasil LTDA, 2020. v. 1. 70p. ISBN: 9798635708750. ASIN (Edição digital): B086XMJ4B9.[Link para o livro](https://www.amazon.com.br/Express%C3%B5es-Regulares-Conceitos-Aplica%C3%A7%C3%B5es-Aprenda-ebook/dp/B086XMJ4B9)
+*	**Expressões Regulares: Conceitos, Usos e Aplicações na Web.** 1. ed. São Paulo: Amazon Serviços de Varejo do Brasil LTDA, 2020. v. 1. 70p. ISBN: 9798635708750. ASIN (Edição digital): B086XMJ4B9. [Link para o livro](https://www.amazon.com.br/Express%C3%B5es-Regulares-Conceitos-Aplica%C3%A7%C3%B5es-Aprenda-ebook/dp/B086XMJ4B9)
 ### Textos em jornais de notícias/revistas:
-*	TI: A aliada invisível na segurança pública. Livro: MATEMÁTICA E AS TECNOLOGIAS DA INFORMAÇÃO, p. 1 - 1, 06 set. 2011.[Link para o artigo na web](http://matematicadainformacao.blogspot.com/2011/09/ti-aliada-invisivel-na-seguranca.html)
+*	**TI: A aliada invisível na segurança pública.** Livro: MATEMÁTICA E AS TECNOLOGIAS DA INFORMAÇÃO, p. 1 - 1, 06 set. 2011.[Link para o artigo na web](http://matematicadainformacao.blogspot.com/2011/09/ti-aliada-invisivel-na-seguranca.html)
 ### Demais trabalhos bibliográficos:
-*	SILVA, M. ; OLIVEIRA, A. ; VIEIRA, V. ; LIMA, E. S. Problemas Matemáticos de Xadrez: Caracterizando o Problema de Dominação. 2017 (Artigo publicado em coautoria).[Link para o artigo](https://www.researchgate.net/publication/301282933_Problemas_Matematicos_de_Xadrez_Caracterizando_o_Problema_de_Dominacao)
+*	**SILVA, M. ; OLIVEIRA, A. ; VIEIRA, V. ; LIMA, E. S. Problemas Matemáticos de Xadrez: Caracterizando o Problema de Dominação.** 2017 (Artigo publicado em coautoria).[Link para o artigo](https://www.researchgate.net/publication/301282933_Problemas_Matematicos_de_Xadrez_Caracterizando_o_Problema_de_Dominacao)
 
 ## Links:
 
