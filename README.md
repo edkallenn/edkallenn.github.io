@@ -6,10 +6,10 @@
 </div>
 
 ## Sumário
-- [Perfil e experiência profissional](#Perfil-e-experiencia-profissional)
-- [Prêmios recebidos e menções profissionais](#Premios-recebidos-e-mencoes-profissionais)
+- [Perfil e experiência profissional](#Perfil-e-experiência-profissional)
+- [Prêmios recebidos e menções profissionais](#Prêmios-recebidos-e-menções-profissionais)
 - [Apresentações de Trabalhos, Conferências ou Palestras](#Apresentacoes-de-Trabalhos-Conferencias-ou-Palestras)
-- [Produção Bibliográfica](#Producao-Bibliografica)
+- [Produção Bibliográfica](#Produção-Bibliográfica)
 - [Links Importantes](#Links-Importantes)
 - [Grau de Instrução](#Grau-de-Instrucao)
 - [Licenças e Certificados](#Licencas-e-Certificados)
