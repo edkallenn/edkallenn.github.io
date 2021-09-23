@@ -45,6 +45,7 @@
 *	**Alfabetização Digital.** *Palestra de abertura da TechWeek 2017 – Semana de Informática do Instituto Federal do Acre*. 2017.
 *	**[Segurança da informação: proteção ou transtorno?](https://www.slideshare.net/edkallenn/palestra-segurana-da-informao-proteo-ou-transtorno)** *Palestra na EMBRAPA/ACRE. Semana da Segurança de Informação*. 2016. Rio Branco – Acre
 *	**“Minha Trajetória Profissional”.** *Feira de Informação Profissional. Palestra em evento ocorrido na Fundação Bradesco.* Rio Branco, Acre em 16/09/2016.
+*	**[A matemática de tudo](https://pt.slideshare.net/edkallenn/a-matemtica-de-tudo-edkallenn-lima)**. *Palestra apresentada na abertura da Semana da Matemática da Escola de Segundo Grau, Kairala José Kairala (KJK)* em Brasiléia-Acre. 2008.
 
 ## Produção Bibliográfica
 
