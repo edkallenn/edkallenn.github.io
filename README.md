@@ -1,12 +1,25 @@
 # Quem sou eu?
-* Eu sou, basicamente, policial federal e professor, mestre em Ciência da Computação e apaixonado pelo conhecimento.
+* Eu sou, basicamente, policial federal e professor, mestre em Ciência da Computação e apaixonado pelo conhecimento. Pai e marido devotado.
 
 <div align="center">
   <img src="https://live.staticflickr.com/1905/44893317802_ed542612f9.jpg" height="400">
 </div>
 
 ## Sumário
-[ToC]
+- [Perfil e experiência profissional](#Perfil-e-experiencia-profissional)
+- [Prêmios recebidos e menções profissionais](#Premios-recebidos-e-menções-profissionais)
+- [Apresentações de Trabalhos, Conferências ou Palestras](#Apresentacoes-de-Trabalhos-Conferências-ou-Palestras)
+- [Produção Bibliográfica](#Producao-Bibliografica)
+- [Links Importantes](#Links-Importantes)
+- [Grau de Instrução](#Grau-de-Instrucao)
+- [Licenças e Certificados](#Licencas-e-Certificados)
+- [Entrevistas, mesas redondas, programas e comentários na mídia](#Entrevistas-mesas-redondas-programas-e-comentarios-na-midia)
+- [Experiência de voluntariado](#Experiencia-de-voluntariado)
+- [Meus projetos](#Meus-projetos)
+- [Cursos, estágios e Seminários](#Cursos-estagios-e-Seminarios)
+- [Idiomas](#Idiomas)
+- [Experiência profissional por ano](#Experiencia-profissional-por-ano)
+- [Suporte ou Contato](#Suporte-ou-Contato) 
 
 
 ## Perfil e experiência profissional
@@ -25,7 +38,7 @@
 * **Vencedor**, juntamente com a equipe de desenvolvedores e programadores/Analistas do CGTI/SEJUSP do *__1º e 2º lugares__*, do **1º Prêmio Inovação de Gestão do Estado do Acre na Área Tecnologia da Informação e Atendimento ao Cidadão**, respectivamente. O prêmio é outorgado às melhores soluções em TI no governo do Acre. A premiação foi: Em primeiro lugar o **Sistema Integrado de Notícias-Crime**(para manutenção de ocorrências policiais e análise) e em **segundo lugar** a __Delegacia Virtual__ para registro de ocorrências policiais pela Web. (2005/2006). 
 * **Vencedor**, junto com a equipe de programadores/Analistas do CGTI/SEJUSP em 1º lugar, do **__2º Prêmio Inovação de Gestão do Estado do Acre na Área Tecnologia da Informação e Atendimento ao Cidadão__** para o Sistema PIC - Pedido de Identificação Criminal. (2006/2007). O prêmio é outorgado às melhores soluções em TI no governo do estado do Acre.
 
-## Apresentações de Trabalhos/Conferência ou Palestras:
+## Apresentações de Trabalhos, Conferências ou Palestras
 *	**As Fake News e os mecanismos de detecção automáticos**. *Palestra na TechWeek 2018 – Semana de Informática do Instituto Federal do Acre*. 2018.
 *	**Fake News e o mito da pós-verdade**. *Palestra na II Semana De Tecnologia da Informação, Comunicação e Inovação da Uninorte*. 25 de maio de 2018. Auditório da Uninorte. Acre.
 *	**[Onde estão as mulheres na TI?](https://www.youtube.com/watch?v=bG6y_wodRNM)** *Palestra de abertura da I Semana de Tecnologia da Informação, Comunicação e Inovação da Uninorte/AC.* 2017 – Rio Branco – Acre.
@@ -33,7 +46,7 @@
 *	**Segurança da informação: proteção ou transtorno?** *Palestra na EMBRAPA/ACRE. Semana da Segurança de Informação*. 2016. Rio Branco – Acre
 *	**“Minha Trajetória Profissional”.** *Feira de Informação Profissional. Palestra em evento ocorrido na Fundação Bradesco.* Rio Branco, Acre em 16/09/2016.
 
-## Produção Bibliográfica:
+## Produção Bibliográfica
 
 ### Livros publicados:
 *	**Expressões Regulares: Conceitos, Usos e Aplicações na Web.** 1. ed. São Paulo: Amazon Serviços de Varejo do Brasil LTDA, 2020. v. 1. 70p. ISBN: 9798635708750. ASIN (Edição digital): B086XMJ4B9. [Link para o livro](https://www.amazon.com.br/Express%C3%B5es-Regulares-Conceitos-Aplica%C3%A7%C3%B5es-Aprenda-ebook/dp/B086XMJ4B9)
@@ -42,7 +55,7 @@
 ### Demais trabalhos bibliográficos:
 *	**SILVA, M. ; OLIVEIRA, A. ; VIEIRA, V. ; LIMA, E. S. Problemas Matemáticos de Xadrez: Caracterizando o Problema de Dominação.** 2017 (Artigo publicado em coautoria).[Link para o artigo](https://www.researchgate.net/publication/301282933_Problemas_Matematicos_de_Xadrez_Caracterizando_o_Problema_de_Dominacao)
 
-## Links:
+## Links Importantes
 
 * [Meu curriculum Lattes](http://lattes.cnpq.br/3469088081618413)
 * [Meu perfil no LinkdIn](https://www.linkedin.com/in/edkallenn/)
@@ -52,6 +65,7 @@
 * [Meu Facebook](https://www.facebook.com/edkallenn)
 
 ## Grau de Instrução
+
 *	**Mestre em Ciência da Computação. Universidade Federal do Acre, UFAC**. *Projeto: “Mineração de dados e aprendizagem de máquina na detecção de conflitos diretos e indiretos entre políticas de controle de acesso”*. Orientação da Dra. Laura Costa Sarkis. 2021.
 *	**Pós-Graduado, lato sensu, em Gerência de Bancos de Dados** (Carga Horária: 360h). Centro Universitário Uninorte. 2020.
 *	**Pós-graduado, lato sensu, em Computação Forense.** (Carga Horária: 360h). Faculdade Barão do Rio Branco, UNINORTE, Brasil. Título da Monografia: *“Perícia Forense em sistemas GNU/LINUX usando programação em shell script”.* Orientadora: [Dra. Andreia Cristiane Stanger. ]((http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4732443D0)).2013-2015.
@@ -78,7 +92,8 @@
 * [Quase metade dos brasileiros fazem compras pela internet usando o celular, diz pesquisa. 2017.](http://g1.globo.com/ac/acre/acre-tv/videos/t/edicoes/v/quase-metade-dos-brasileiros-fazem-compras-pela-internet-usando-o-celular-diz-pesquisa/6082980/)
 
 ## Experiência de voluntariado
-### Líder da RedeOusadia - a Rede de Jovens da IAA (Igreja Apostólica Acreana) (2011-2018)
+### Líder da RedeOusadia - a Rede de Jovens da IAA (Igreja Apostólica Acreana e 2011-2018)
+
 Atividades desenvolvidas:
 * Pregação/preleção semanal
 * Conselheiro e Acompanhamento psicológico e espiritual
@@ -89,14 +104,14 @@ Atividades desenvolvidas:
 * Acompanhamento pessoal
 * Atividades lúdicas com a juventude da igreja
 
-## Páginas dos meus projetos 
+## Meus projetos 
 - [Minha dissertação de mestrado](https://ed1rac.github.io/Dissertacao-Ed/)
 - [Aulas de Estruturas de Dados](http://ed1rac.github.io/AulasEstruturasDados/)
 - [Aulas de Linguagem de Programação(em Python, C e Java)](http://ed1rac.github.io/Aulas-de-Java-da-Uninorte/)
 - [Aulas de POO em Java](https://ed1rac.github.io/POO-2017-2-Java/)
 - [Minicurso de Python](http://ed1rac.github.io/Mini-Curso-de-Python-3.0/)
 
-## Cursos, estágios e Seminários.
+## Cursos, estágios e Seminários
 *	XLVIII Curso de Formação Profissional de Agente de Polícia Federal (regional). (Carga horária: 830h). Academia Nacional de Polícia. Departamento de Polícia Federal, DPF, Brasil. 2007.
 *	Curso de Aperfeiçoamento Profissional para Classe Especial - APF - Turma 1/2017. (Carga horária: 180h). Polícia Federal. De 06/03/2017 a 30/06/2017. 
 *	Curso Básico de Combate a Crimes Cibernéticos - 2018.01. Carga horária: 60 horas. Academia Nacional de Polícia. Polícia Federal, DPF, Brasil, 2018. De 07 de agosto a 03 de setembro de 2018. 
@@ -161,15 +176,14 @@ Atividades desenvolvidas:
 *	Experiência em Aplicativos Comerciais como Word, Excel, Access, Dreamweaver, Fireworks, Photoshop e CorelDraw, sendo autor de diversas soluções envolvendo estes aplicativos. Além de conhecimentos avançados dos Sistemas Operacionais DOS, Windows (da versão 3.x ao 10, incluindo as versões NT, 2000 e server 20xx), MacOS (da versão X, “Cheetah” em diante) e LINUX (distribuições Kali, Debian, Backtrack, Arch, Mint, Ubuntu, CentOS, Kurumin, Red Hat, Slack e variantes). Além de UNIX, BSD e variantes UNIX-like.
 *	Experiência como professor particular de Matemática (em níveis fundamental, médio e superior) de Língua Portuguesa (em nível médio), de Redação (níveis médio e pré-vestibular) e História (nível médio). (1998-até hoje).
 
-
 ## Suporte ou Contato
 ### Telefones: 
 * Trabalho: (68) 3212-1211
 
 ### E-mails: 
-* profissional 1: lima.esl@dpf.gov.br 
-* profissional 2: edkallenn.lima@uninorteac.edu.br
+* profissional 1: [lima.esl@dpf.gov.br](mailto:lima.esl@dpf.gov.br)
+* profissional 2: [edkallenn.lima@uninorteac.edu.br](mailto:edkallenn.lima@uninorteac.edu.br)
 
 ### Endereços Profissionais:
-*	Centro Universitário UNINORTE. Alameda Hungria, 200. Jardim Europa II. 69915497 - Rio Branco, AC – Brasil. Telefone: (68) 33027070. URL da Homepage: http://www.uninorteac.com.br
-*	Superintendência da Polícia Federal no Acre. Rodovia BR 364, 3501 - Portal da Amazônia, Rio Branco - AC, 69915-630. Telefone: (68) 3212-1211. URL da Homepage: http://www.pf.gov.br/institucional/unidades/superintendencias-e-delegacias/acre
+*	Centro Universitário UNINORTE. Alameda Hungria, 200. Jardim Europa II. 69915497 - Rio Branco, AC – Brasil. Telefone: (68) 33027070. URL da Homepage: <http://www.uninorteac.com.br>
+*	Superintendência da Polícia Federal no Acre. Rodovia BR 364, 3501 - Portal da Amazônia, Rio Branco - AC, 69915-630. Telefone: (68) 3212-1211. URL da Homepage: <http://www.pf.gov.br/institucional/unidades/superintendencias-e-delegacias/acre>
