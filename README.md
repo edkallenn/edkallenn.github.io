@@ -42,9 +42,10 @@
 * [Meu Facebook](https://www.facebook.com/edkallenn)
 
 ## Grau de Instrução
-*	**Mestrado em andamento em Ciência da Computação. Universidade Federal do Acre, UFAC**. *Projeto: “Mineração de dados e aprendizagem de máquina na detecção de conflitos diretos e indiretos entre políticas de controle de acesso”*
-*	**Mestrado em Informática pela UFAM** (Universidade Federal do Amazonas – Conceito CAPES 5 – __Incompleto__)
+*	**Mestre em Ciência da Computação. Universidade Federal do Acre, UFAC**. *Projeto: “Mineração de dados e aprendizagem de máquina na detecção de conflitos diretos e indiretos entre políticas de controle de acesso”*. Orientação da Dra. Laura Costa Sarkis. 2021.
+*	**Pós-Graduado, lato sensu, em Gerência de Bancos de Dados** (Carga Horária: 360h). Centro Universitário Uninorte. 2020.
 *	**Pós-graduado, lato sensu, em Computação Forense.** (Carga Horária: 360h). Faculdade Barão do Rio Branco, UNINORTE, Brasil. Título da Monografia: *“Perícia Forense em sistemas GNU/LINUX usando programação em shell script”.* Orientadora: [Dra. Andreia Cristiane Stanger. ]((http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4732443D0)).2013-2015.
+*	*	**Mestrado em Informática pela UFAM** (Universidade Federal do Amazonas – Conceito CAPES 5 – __Incompleto__)
 *	**Participante do X Seminário de Iniciação Científica/PIBIC-CNPq-UFAC**, realizado em Rio Branco entre 02 e 06 de julho/2001, como bolsista do Programa PIBIC 2000/2001, apresentando o *trabalho “Resolução e Implementação de Sistemas Lineares determinados através dos métodos diretos e iterativos utilizando a linguagem C/C++”*, na modalidade de exposição oral e painel.
 *	**Pós-Graduado, lato sensu em “MBA em Desenvolvimento Web” no IESAB - Instituto de Ensino Superior de Barreiras.** 2007. Monografia: *“Expressões Regulares: Conceitos, usos e aplicações na WEB”*. (__incompleto__)
 *	**Bacharel em Sistemas de Informação. UFAC**. 2005. *Título da Monografia: “Tecnologias Client-Side: Paradigma de animação e interatividade na Web”*. Orientador: [Dra. Laura Costa Sarkis](http://lattes.cnpq.br/6846153302568344).2005.
