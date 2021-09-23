@@ -53,6 +53,8 @@
 *	**Expressões Regulares: Conceitos, Usos e Aplicações na Web.** 1. ed. São Paulo: Amazon Serviços de Varejo do Brasil LTDA, 2020. v. 1. 70p. ISBN: 9798635708750. ASIN (Edição digital): B086XMJ4B9. [Link para o livro](https://www.amazon.com.br/Express%C3%B5es-Regulares-Conceitos-Aplica%C3%A7%C3%B5es-Aprenda-ebook/dp/B086XMJ4B9)
 ### Textos em jornais de notícias/revistas:
 *	**TI: A aliada invisível na segurança pública.** Livro: MATEMÁTICA E AS TECNOLOGIAS DA INFORMAÇÃO, p. 1 - 1, 06 set. 2011.[Link para o artigo na web](http://matematicadainformacao.blogspot.com/2011/09/ti-aliada-invisivel-na-seguranca.html)
+*	**Colunista na revista Armadeira Cultural: Arte Política e Sociedade**. [Texto 1](https://bit.ly/3AOXUsQ). [Texto 2](https://bit.ly/3i2tNXz)
+
 ### Demais trabalhos bibliográficos:
 *	**SILVA, M. ; OLIVEIRA, A. ; VIEIRA, V. ; LIMA, E. S. Problemas Matemáticos de Xadrez: Caracterizando o Problema de Dominação.** 2017 (Artigo publicado em coautoria).[Link para o artigo](https://www.researchgate.net/publication/301282933_Problemas_Matematicos_de_Xadrez_Caracterizando_o_Problema_de_Dominacao)
 
@@ -63,7 +65,9 @@
 * [Meu Twitter](https://twitter.com/edkallenn)
 * [Meu blog no Wordpress](https://professored.wordpress.com/)
 * [Meu blog: Eu li nos livros](https://eulinoslivros.tumblr.com/)
+* [Meu blog no Medium](https://edkallenn.medium.com/)
 * [Meu Facebook](https://www.facebook.com/edkallenn)
+* [Meu Podcast: Universo Literário](https://www.megafono.host/podcast/universo-literario) (Também disponível no [Spotify](https://open.spotify.com/show/34CrwwDm5uW71mQmC2OiuO?si=7KuHr9RbRtuOqFlYcbu8tQ&dl_branch=1), [Apple Podcastas](https://podcasts.apple.com/br/podcast/universo-liter%C3%A1rio/id1471443825) e [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLm1lZ2Fmb25vLmhvc3QvdW5pdmVyc28tbGl0ZXJhcmlv).
 
 ## Grau de Instrução
 
@@ -91,6 +95,7 @@
 * [Audiência Publica - Ensino à Distância: Benefícios e Desafios. 2018.](https://www.youtube.com/watch?v=E9FLF09BgFo&feature=youtu.be)
 * [Veja dicas para aumentar espaço na memória do celular. 2017.](http://g1.globo.com/ac/acre/acre-tv/videos/t/edicoes/v/veja-dicas-para-aumentar-espaco-na-memoria-do-celular/5883578/)
 * [Quase metade dos brasileiros fazem compras pela internet usando o celular, diz pesquisa. 2017.](http://g1.globo.com/ac/acre/acre-tv/videos/t/edicoes/v/quase-metade-dos-brasileiros-fazem-compras-pela-internet-usando-o-celular-diz-pesquisa/6082980/)
+* [Programa "Soltando o Verbo" - entrevista sobre a tecnologia 5G](https://youtu.be/O6Pq-TQcHCM)
 
 ## Experiência de voluntariado
 ### Líder da RedeOusadia - a Rede de Jovens da IAA (Igreja Apostólica Acreana) entre 2011-2018
@@ -104,6 +109,11 @@
 * Coleta e distribuição de alimentos
 * Acompanhamento pessoal
 * Atividades lúdicas com a juventude da igreja
+
+### Colunista da rádio CBN Amazônia
+* Articulista semanal na CBN Amazônia 98.1 com a coluna "Universo Literário" com dicas de Literatura e Cultura.
+* Período: de 2019 até hoje.
+* [Link de uma coluna](https://cbnamazonia.com/cidades/rio-branco/dicas-de-como-ler-os-classicos-da-literatura)
 
 ## Meus projetos 
 - [Minha dissertação de mestrado](https://ed1rac.github.io/Dissertacao-Ed/)
