@@ -6,7 +6,7 @@
 </div>
 
 ## Sumário
-[ToC}
+[ToC]
 
 
 ## Perfil e experiência profissional
