@@ -10,7 +10,7 @@
 - [Prêmios recebidos e menções profissionais](#Prêmios-recebidos-e-menções-profissionais)
 - [Apresentações de Trabalhos, Conferências ou Palestras](#Apresentações-de-Trabalhos-Conferências-ou-Palestras)
 - [Produção Bibliográfica](#Produção-Bibliográfica)
-- [Links Importantes](#Links-Importantes)
+- [Links Importantes](#links-importantes)
 - [Grau de Instrução](#Grau-de-Instrução)
 - [Licenças e Certificados](#Licenças-e-Certificados)
 - [Entrevistas, mesas redondas, programas e comentários na mídia](#Entrevistas-mesas-redondas-programas-e-comentários-na-mídia)
