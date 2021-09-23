@@ -7,8 +7,8 @@
 
 ## Sumário
 - [Perfil e experiência profissional](#Perfil-e-experiencia-profissional)
-- [Prêmios recebidos e menções profissionais](#Premios-recebidos-e-menções-profissionais)
-- [Apresentações de Trabalhos, Conferências ou Palestras](#Apresentacoes-de-Trabalhos-Conferências-ou-Palestras)
+- [Prêmios recebidos e menções profissionais](#Premios-recebidos-e-mencoes-profissionais)
+- [Apresentações de Trabalhos, Conferências ou Palestras](#Apresentacoes-de-Trabalhos-Conferencias-ou-Palestras)
 - [Produção Bibliográfica](#Producao-Bibliografica)
 - [Links Importantes](#Links-Importantes)
 - [Grau de Instrução](#Grau-de-Instrucao)
