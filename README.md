@@ -6,20 +6,20 @@
 </div>
 
 ## Sumário
-- [Perfil e experiência profissional](#Perfil-e-experiência-profissional)
-- [Prêmios recebidos e menções profissionais](#Prêmios-recebidos-e-menções-profissionais)
-- [Apresentações de Trabalhos, Conferências ou Palestras](#Apresentações-de-Trabalhos-Conferências-ou-Palestras)
-- [Produção Bibliográfica](#Produção-Bibliográfica)
+- [Perfil e experiência profissional](#perfil-e-experiência-profissional)
+- [Prêmios recebidos e menções profissionais](#prêmios-recebidos-e-menções-profissionais)
+- [Apresentações de Trabalhos, Conferências ou Palestras](#apresentações-de-trabalhos-conferências-ou-palestras)
+- [Produção Bibliográfica](#produção-bibliográfica)
 - [Links Importantes](#links-importantes)
-- [Grau de Instrução](#Grau-de-Instrução)
-- [Licenças e Certificados](#Licenças-e-Certificados)
-- [Entrevistas, mesas redondas, programas e comentários na mídia](#Entrevistas-mesas-redondas-programas-e-comentários-na-mídia)
-- [Experiência de voluntariado](#Experiência-de-voluntariado)
-- [Meus projetos](#Meus-projetos)
-- [Cursos, estágios e Seminários](#Cursos-estágios-e-Seminários)
-- [Idiomas](#Idiomas)
-- [Experiência profissional por ano](#Experiência-profissional-por-ano)
-- [Suporte ou Contato](#Suporte-ou-Contato) 
+- [Grau de Instrução](#grau-de-instrução)
+- [Licenças e Certificados](#licenças-e-certificados)
+- [Entrevistas, mesas redondas, programas e comentários na mídia](#entrevistas-mesas-redondas-programas-e-comentários-na-mídia)
+- [Experiência de voluntariado](#experiência-de-voluntariado)
+- [Meus projetos](#meus-projetos)
+- [Cursos, estágios e Seminários](#cursos-estágios-e-seminários)
+- [Idiomas](#idiomas)
+- [Experiência profissional por ano](#experiência-profissional-por-ano)
+- [Suporte ou Contato](#suporte-ou-contato) 
 
 
 ## Perfil e experiência profissional
