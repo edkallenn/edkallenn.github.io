@@ -92,9 +92,9 @@
 * [Quase metade dos brasileiros fazem compras pela internet usando o celular, diz pesquisa. 2017.](http://g1.globo.com/ac/acre/acre-tv/videos/t/edicoes/v/quase-metade-dos-brasileiros-fazem-compras-pela-internet-usando-o-celular-diz-pesquisa/6082980/)
 
 ## Experiência de voluntariado
-### Líder da RedeOusadia - a Rede de Jovens da IAA (Igreja Apostólica Acreana e 2011-2018)
+### Líder da RedeOusadia - a Rede de Jovens da IAA (Igreja Apostólica Acreana) entre 2011-2018
 
-Atividades desenvolvidas:
+**Atividades desenvolvidas:**
 * Pregação/preleção semanal
 * Conselheiro e Acompanhamento psicológico e espiritual
 * Serviços sociais e espirituais
