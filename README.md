@@ -79,6 +79,13 @@ Atividades desenvolvidas:
 * Acompanhamento pessoal
 * Atividades lúdicas com a juventude da igreja
 
+## Páginas dos meus projetos 
+- [Minha dissertação de mestrado](https://ed1rac.github.io/dissertacao-ed.github.io/)
+- [Aulas de Estruturas de Dados](http://ed1rac.github.io/AulasEstruturasDados/)
+- [Aulas de Linguagem de Programação(em Python, C e Java)](http://ed1rac.github.io/Aulas-de-Java-da-Uninorte/)
+- [Aulas de POO em Java](https://ed1rac.github.io/POO-2017-2-Java/)
+- [Minicurso de Python](http://ed1rac.github.io/Mini-Curso-de-Python-3.0/)
+
 ## Cursos, estágios e Seminários.
 *	XLVIII Curso de Formação Profissional de Agente de Polícia Federal (regional). (Carga horária: 830h). Academia Nacional de Polícia. Departamento de Polícia Federal, DPF, Brasil. 2007.
 *	Curso de Aperfeiçoamento Profissional para Classe Especial - APF - Turma 1/2017. (Carga horária: 180h). Polícia Federal. De 06/03/2017 a 30/06/2017. 
