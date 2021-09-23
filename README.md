@@ -80,7 +80,7 @@ Atividades desenvolvidas:
 * Atividades lúdicas com a juventude da igreja
 
 ## Páginas dos meus projetos 
-- [Minha dissertação de mestrado](https://ed1rac.github.io/dissertacao-ed.github.io/)
+- [Minha dissertação de mestrado](https://ed1rac.github.io/Dissertacao-Ed/)
 - [Aulas de Estruturas de Dados](http://ed1rac.github.io/AulasEstruturasDados/)
 - [Aulas de Linguagem de Programação(em Python, C e Java)](http://ed1rac.github.io/Aulas-de-Java-da-Uninorte/)
 - [Aulas de POO em Java](https://ed1rac.github.io/POO-2017-2-Java/)
