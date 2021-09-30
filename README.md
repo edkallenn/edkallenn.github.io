@@ -132,24 +132,32 @@
 *	Curso sobre a Metodologia de Gerenciamento de Projetos Utilizando Metodologia ÁGIL. Academia Nacional de Polícia. Polícia Federal. De 24 de agosto a 31 de outubro de 2021. 10 horas.
 *	Curso de Análise de Inteligência Policial e Equipamentos Discretos. (Carga horária: 82h). Academia Nacional de Polícia. Departamento de Polícia Federal, DPF, Brasil.
 *	II Treinamento de técnicas de busca e apreensão de material de informática em operações de combate à pornografia envolvendo criança ou adolescente. Academia Nacional de Polícia. Polícia Federal. 16 h. Brasília. DF
+*	Redes Neurais Artificiais em Python. 2020. 8hrs. Udemy. IA Expert Academy.
+*	Redes Neurais. Deep Learning com PyTorch. 2020. 6hrs. Alura Cursos online de tecnologia.
+*	Treinando uma Rede Neural: Deep Learning com PyTorch. 2020. 8hrs. Alura Cursos online de tecnologia.
 *	C# I: Fundamentos da linguagem (de 14/06/2016 a 08/02/2018) 12hrs. Alura Cursos online de tecnologia.
 *	Java I: Primeiros passos (de 14/06/2016 a 19/06/2016). 12hrs. Alura Cursos online de tecnologia.
 *	Java II: Orientação a Objetos (de 20/06/2016 a 11/07/2016). 12hrs. Alura Cursos online de tecnologia.
 *	Java III: Principais APIs e bibliotecas (de 11/07/2016 a 30/06/2017). 12hrs. Alura Cursos online de tecnologia.
+*	Java OO: Introdução à Orientação a Objetos. 2020. 8hrs. Alura Cursos online de tecnologia.
 *	Git: Controle e compartilhe seu código (de 14/06/2016 a 01/04/2017). 16hrs. Alura Cursos online de tecnologia.
+*	Python 3: Intrpdução à nova versão da Linguagem. 2020. 12 hrs. Alura Cursos online de tecnologia.
 *	Python 2: Programando com a linguagem (de 20/06/2016 a 04/07/2016). 16hrs. Alura Cursos online de tecnologia.
+*	MongoDB: uma alternativa aos bancos de dados relacionais tradicionais (de 18/04/2019 a 27/07/2020). 6hrs. Alura Cursos online de tecnologia.
 *	Ruby I: Introdução a lógica de programação com jogos (de 13/06/2016 a 16/06/2016). 12hrs. Alura Cursos online de tecnologia.
 *	Linux II: Programas, processos e pacotes (de 14/06/2016 a 24/03/2017). 8hrs. Alura Cursos online de tecnologia.
 *	Linux I: Conhecendo e utilizando o terminal (de 14/06/2016 a 03/07/2016). 4hrs. Alura Cursos online de tecnologia.
 *	Vagrant: Automatização e implementação de entrega contínua (de 30/03/2017 a 08/04/2017). 8hrs. Alura Cursos online de tecnologia.
 *	Docker: Criando containers sem dor de cabeça (de 03/01/2018 a 08/02/2018). 10hrs. Alura Cursos online de tecnologia.
+*	Javascript: Programando a Orientação a Objetos (de 27/08/2021 a 30/09/2021). 10hrs. Alura Cursos online de tecnologia.
 *	Certificação Linux LPI Essentials parte 1: Evolution and Distributions (de 24/03/2017 a 30/03/2017). 8hrs. Alura Cursos online de tecnologia.
 *	Certificação Linux LPI Essentials parte 2: Open Source Software and Licensing (de 03/07/2017 a 06/07/2017). 8hrs. Alura Cursos online de tecnologia.
 *	Scrum: Agilidade em seu projeto (de 24/11/2016 a 21/03/2017). 10hrs. Alura Cursos online de tecnologia.
 *	C I: Introdução à Linguagem das Linguagens (de 14/06/2016 a 09/09/2016). 8hrs. Alura Cursos online de tecnologia.
+*	UML: Modelagem de soluções. 2021. 8hrs. Alura Cursos online de tecnologia.
 *	HTML e CSS: Os seus primeiros passos (de 09/09/2016 a 23/09/2016). 20hrs. Alura Cursos online de tecnologia.
 *	Empreendedorismo: da ideia ao plano de negócios (de 15/08/2017 a 18/11/2017). 20hrs. Alura Cursos online de tecnologia.
-*	COBIT 5 Foundations: Introdução a Governança Corporativa. Alura Cursos online de tecnologia. 14 Horas. 2018.
+*	COBIT 5 Foundations: Introdução a Governança Corporativa. 14 Horas. 2018. Alura Cursos online de tecnologia. 
 *	Curso de Lógica de programação e linguagem C - treinamento essencial. 90 horas. iMastersPRO Cursos Online. 2016.
 *	Curso de Desenvolvimento de Jogos com HTML5. (Carga horária: 45h). iMasters Cursos Online. 2016.
 *	Curso de “PHP Orientado a Objetos”. iMasters Cursos Online. Fevereiro de 2013. 
@@ -161,10 +169,10 @@
 *	Curso de “Configurando o Windows 7: Exame 70-680”. MVA. 2013.
 *	Curso de PHP/MySQL oferecido pelo Colégio Dom Pedro, instrutor – Fernando Anselmo (conhecido autor de 15 livros de informática – perfil dele no LinkedIn: https://www.linkedin.com/in/fernando-anselmo-bb423623/). 2005
 *	Curso de Redes Wireless oferecido pela empresa Tesla Tecnologia Ltda. 2005
-*	Curso de HTML. iPED. 2004.
+*	Curso de HTML. iPED. 2004. 30 horas.
 *	Curso de Operador de microcomputador na empresa Compuservice´s Informática (MSDOS, Windows 95, Word, Excel, PowerPoint e Access). 1995.
 *	Estágio remunerado por 06 meses na empresa CONTAB - Contabilidade Brasiléia Ltda. (1998): – (68)3546-3260.
-*	Curso de Operador de Microcomputador. IPD, MSDOS, Wordstar, Lotus 1-2-3 e Dbase III Programado. Delta Informática. 1991
+*	Curso de Operador de Microcomputador. IPD, MSDOS, Wordstar, Lotus 1-2-3 e Dbase III Plus Programado. Delta Informática. 1991
 
 ## Idiomas
 *	Fluente em Inglês e Português (Lido, Escrito e Falado). Inclusive com experiência como professor em ambos os idiomas. 
