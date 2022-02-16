@@ -88,6 +88,7 @@
 * [SCRUM-Agilidade em seu projeto](https://cursos.alura.com.br/certificate/327cba45-dc2b-4a1d-97fa-d264d6238b68)
 
 ## Entrevistas, mesas redondas, programas e comentários na mídia
+* [Especialista dá dicas para evitar golpes virtuais](https://www.youtube.com/watch?v=c8hJfbW-M-I)
 * [Como evitar ser vítima de crimes cibernéticos?2018.](https://www.youtube.com/watch?v=UyzSE7DCiKo)
 * [Chefe de TI da Polícia Federal fala sobre crimes cometidos por meios eletrônicos - Acre TV - Cana 04 - Rede Globo. 2015.](https://www.youtube.com/watch?v=Z9vDN-kSCA0)
 * [Reportagem do Acre TV da Globo (Rede Amazônica) sobre cuidados com redes sem fio públicas onde eu, Edkallenn Lima, sou o entrevistado.2015.](https://www.youtube.com/watch?v=OTD34NqC7Ks)
