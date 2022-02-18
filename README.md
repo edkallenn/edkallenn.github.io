@@ -182,15 +182,14 @@
 *	Fluente em Espanhol (Lido, Escrito e Falado).
 
 ## Experiência profissional por ano
-*	Atualmente exercendo o cargo de **Policial Federal (Agente de Polícia Federal)** tendo realizado os seguintes serviços por ano:
-      * Lotado no NTI/PB em João Pessoa; (a partir de março de 2022)
-      * Chefe do Núcleo de Tecnologia da Informação do Acre de 2012-2021; (na Superintendência Regional da Polícia Federal no Acre)
-      * Chefe da CS do mesmo órgão (Comunicação Social) de 2012 até hoje. (na Superintendência Regional da Polícia Federal no Acre)
-      * Investigação/repressão de Crimes Cibernéticos; (na Superintendência Regional da Polícia Federal no Acre)
-      * Participação em operações policiais diversas; (na Superintendência Regional da Polícia Federal no Acre)
-      * lotado durante 03 anos em Epitaciolândia-AC onde trabalhei com Repressão à Entorpecentes, Imigração, Segurança Privada, Serviços Institucionais (Armas, Eleições) e Análise Criminal. (de 2007 a 2010)
-*	Atualmente exercendo o cargo de Professor, de nível superior, das disciplinas:
-  *	**Professor, de nível superior**, das disciplinas: (Todas no Centro Universitário UNINORTE em Rio Branco, Acre). (de 2012 até hoje).
+  *	Atualmente exercendo o cargo de **Policial Federal (Agente de Polícia Federal)** tendo realizado os seguintes serviços por ano:
+    *	Lotado no NTI/PB em João Pessoa; (a partir de março de 2022)
+    *	Chefe do Núcleo de Tecnologia da Informação do Acre de 2012-2021; (na Superintendência Regional da Polícia Federal no Acre)
+    *	Chefe da CS do mesmo órgão (Comunicação Social) de 2012 até hoje. (na Superintendência Regional da Polícia Federal no Acre)
+    *	Investigação/repressão de Crimes Cibernéticos; (na Superintendência Regional da Polícia Federal no Acre)
+    *	Participação em operações policiais diversas; (na Superintendência Regional da Polícia Federal no Acre)
+    *	lotado durante 03 anos em Epitaciolândia-AC onde trabalhei com Repressão à Entorpecentes, Imigração, Segurança Privada, Serviços Institucionais (Armas, Eleições) e Análise Criminal. (de 2007 a 2010)
+  *	Atualmente exercendo o cargo de**Professor, de nível superior**, das disciplinas: (Todas no Centro Universitário UNINORTE em Rio Branco, Acre). (de 2012 até hoje).
     *	**"Estatística Computacional"** (3º período de Sistemas de Informação - 100% presencial);
     *	**"Estruturas de Dados"** (4º período de Sistemas de Informação-SI - 100% presencial);
     *	**"Fundamentos de Programação e Algoritmos"** (1º ano de ADS - "Análise e Desenvolvimento de Sistemas" - 100% EAD);
