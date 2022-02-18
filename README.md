@@ -182,31 +182,31 @@
 *	Fluente em Espanhol (Lido, Escrito e Falado).
 
 ## Experiência profissional por ano
-*	Atualmente exercendo o cargo de Policial Federal (Agente de Polícia Federal) na Superintendência Regional da Polícia Federal no Acre tendo realizado os seguintes serviços por ano:
-  *	Lotado no NTI/PB em João Pessoa; (a partir de março de 2022)
-  - Chefe do Núcleo de Tecnologia da Informação do Acre de 2012-2021;
-  - Chefe da CS do mesmo órgão (Comunicação Social) de 2012 até hoje.
-  - Investigação/repressão de Crimes Cibernéticos;
-  - Participação em operações policiais diversas;
-  - lotado durante 03 anos em Epitaciolândia-AC onde trabalhei com Repressão à Entorpecentes, Imigração, Segurança Privada, Serviços Institucionais (Armas, Eleições) e Análise Criminal. (de 2007 a 2010)
+*	Atualmente exercendo o cargo de **Policial Federal (Agente de Polícia Federal)** tendo realizado os seguintes serviços por ano:
+      * Lotado no NTI/PB em João Pessoa; (a partir de março de 2022)
+      * Chefe do Núcleo de Tecnologia da Informação do Acre de 2012-2021; (na Superintendência Regional da Polícia Federal no Acre)
+      * Chefe da CS do mesmo órgão (Comunicação Social) de 2012 até hoje. (na Superintendência Regional da Polícia Federal no Acre)
+      * Investigação/repressão de Crimes Cibernéticos; (na Superintendência Regional da Polícia Federal no Acre)
+      * Participação em operações policiais diversas; (na Superintendência Regional da Polícia Federal no Acre)
+      * lotado durante 03 anos em Epitaciolândia-AC onde trabalhei com Repressão à Entorpecentes, Imigração, Segurança Privada, Serviços Institucionais (Armas, Eleições) e Análise Criminal. (de 2007 a 2010)
 *	Atualmente exercendo o cargo de Professor, de nível superior, das disciplinas:
-*	Professor, de nível superior, das disciplinas: (todas no Centro Universitário UNINORTE em Rio Branco, Acre). (2012 até hoje)
-  - **"Estatística Computacional"** (3º período de Sistemas de Informação - 100% presencial);
-  - **"Estruturas de Dados"** (4º período de Sistemas de Informação-SI - 100% presencial);
-  - **"Fundamentos de Programação e Algoritmos"** (1º ano de ADS - "Análise e Desenvolvimento de Sistemas" - 100% EAD);
-  - **"Lógica e Matemática para Computação"** (1º ano de ADS - Análise e Desenvolvimento de Sistemas - 100% EAD);
-  - **"Matemática e Lógica para Computação"** (3º período de Sistemas de Informação e CST em Redes de Computadores - 100% presencial);
-  - **"Programação Orientada a Objetos"** (4º período de SI - 100% presencial);
-  - **"Programação Orientada a Objetos para a Web"** (6º período de SI- 100% presencial);
-  - **"Linguagem de Programação"** (2º ano de ADS - Análise e Desenvolvimento de Sistemas - 100% EAD);
-  - **"Sistemas Operacionais"** (2º ano de ADS - Análise e Desenvolvimento de Sistemas - 100% EAD);
-  - **"Empreendedorismo"** (3º período de SI; 8º período de Estética e Cosmética e CST em Redes e 8ª período de SI- 100% presencial);
-  - **"Linguagem de Programação"** (3º período de SI e Redes). 100% presencial.
-  - **"Fundamentos de SI"** (7º período de SI). 100 % presencial.
-  - **"Projeto Orientado a Objetos"** (7º período de SI). 100% presencial.
-* **Professor** das disciplinas: (do **curso de Pós-graduação** em **"Computação Forense"** no Centro Educacional Uninorte - de 2020 a 2021)
-  - Segurança em Sistemas Computacionais e
-  - Perícia Forense Computacional I
+  *	**Professor, de nível superior**, das disciplinas: (Todas no Centro Universitário UNINORTE em Rio Branco, Acre). (de 2012 até hoje).
+    *	**"Estatística Computacional"** (3º período de Sistemas de Informação - 100% presencial);
+    *	**"Estruturas de Dados"** (4º período de Sistemas de Informação-SI - 100% presencial);
+    *	**"Fundamentos de Programação e Algoritmos"** (1º ano de ADS - "Análise e Desenvolvimento de Sistemas" - 100% EAD);
+    *	**"Lógica e Matemática para Computação"** (1º ano de ADS - Análise e Desenvolvimento de Sistemas - 100% EAD);
+    *	**"Matemática e Lógica para Computação"** (3º período de Sistemas de Informação e CST em Redes de Computadores - 100% presencial);
+    *	**"Programação Orientada a Objetos"** (4º período de SI - 100% presencial);
+    *	**"Programação Orientada a Objetos para a Web"** (6º período de SI- 100% presencial);
+    *	**"Linguagem de Programação"** (2º ano de ADS - Análise e Desenvolvimento de Sistemas - 100% EAD);
+    *	**"Sistemas Operacionais"** (2º ano de ADS - Análise e Desenvolvimento de Sistemas - 100% EAD);
+    *	**"Empreendedorismo"** (3º período de SI; 8º período de Estética e Cosmética e CST em Redes e 8ª período de SI- 100% presencial);
+    *	**"Linguagem de Programação"** (3º período de SI e Redes). 100% presencial.
+    *	**"Fundamentos de SI"** (7º período de SI). 100 % presencial.
+    *	**"Projeto Orientado a Objetos"** (7º período de SI). 100% presencial.
+  * **Professor** das disciplinas: (do **curso de Pós-graduação** em **"Computação Forense"** no Centro Educacional Uninorte - de 2020 a 2021)
+    * Segurança em Sistemas Computacionais e
+    * Perícia Forense Computacional I
 *	Professor, de nível superior, das disciplinas “Fundamentos de Programação e Algoritmos” (2º período) e “Estruturas de Dados” (3º período) do Curso de Bacharel em Sistemas de Informação da Faculdade União Educacional do Norte (UNINORTE). 2012 a 2013. 
 *	Professor, nível superior, das disciplinas de Algoritmos e Álgebra Relacional na Faculdade União Educacional do Norte (UNINORTE) em 2007, 1º semestre.
 *	Professor do Curso de Webdesign com habilitação em HTML, Dreamweaver, Flash, Fireworks e Publicação na SOS Informática em Rio Branco – Acre (1º Semestre de 2007).
