@@ -133,6 +133,7 @@
 *	II Curso de Técnicas de Investigação na área de Crimes Cibernéticos via Rede Mundial de Computadores oferecido pela ANP (Academia Nacional de Polícia) em Brasília-DF de 17 a 21 de novembro de 2008.
 *	Curso de Formação de Tutores - 2018.02. Academia Nacional de Polícia. Polícia Federal. De 08/05/2018 a 04/06/2018. 60 horas.
 *	Curso sobre a Metodologia de Gerenciamento de Projetos Utilizando Metodologia ÁGIL. Academia Nacional de Polícia. Polícia Federal. De 24 de agosto a 31 de outubro de 2021. 10 horas.
+*	Curso Básico sobre o Banco de Perfis Genéticos e a Legislação Aplicada.  25 de janeiro a 25 de abril de 2022. 50 horas. Academia Nacional de Polícia. Polícia Federal. Brasil. 
 *	Curso de Análise de Inteligência Policial e Equipamentos Discretos. (Carga horária: 82h). Academia Nacional de Polícia. Departamento de Polícia Federal, DPF, Brasil.
 *	II Treinamento de técnicas de busca e apreensão de material de informática em operações de combate à pornografia envolvendo criança ou adolescente. Academia Nacional de Polícia. Polícia Federal. 16 h. Brasília. DF
 *	Redes Neurais Artificiais em Python. 2020. 8hrs. Udemy. IA Expert Academy.
