@@ -42,9 +42,9 @@
 
 ## Apresentações de Trabalhos, Conferências ou Palestras
 *	**As Fake News e os mecanismos de detecção automáticos**. *Palestra na TechWeek 2018 – Semana de Informática do Instituto Federal do Acre*. 2018.
-*	**Fake News e o mito da pós-verdade**. *Palestra na II Semana De Tecnologia da Informação, Comunicação e Inovação da Uninorte*. 25 de maio de 2018. Auditório da Uninorte. Acre.
+*	**[Fake News e o mito da pós-verdade](https://pt.slideshare.net/edkallenn/fake-news-e-o-mito-da-psverdadepdf)**. *Palestra na II Semana De Tecnologia da Informação, Comunicação e Inovação da Uninorte*. 25 de maio de 2018. Auditório da Uninorte. Acre.
 *	**[Onde estão as mulheres na TI?](https://www.youtube.com/watch?v=bG6y_wodRNM)** *Palestra de abertura da I Semana de Tecnologia da Informação, Comunicação e Inovação da Uninorte/AC.* 2017 – Rio Branco – Acre.
-*	**Alfabetização Digital.** *Palestra de abertura da TechWeek 2017 – Semana de Informática do Instituto Federal do Acre*. 2017.
+*	**[Alfabetização Digital](https://pt.slideshare.net/edkallenn/alfabetizao-digital-252135641)** *Palestra de abertura da TechWeek 2017 – Semana de Informática do Instituto Federal do Acre*. 2017.
 *	**[Segurança da informação: proteção ou transtorno?](https://www.slideshare.net/edkallenn/palestra-segurana-da-informao-proteo-ou-transtorno)** *Palestra na EMBRAPA/ACRE. Semana da Segurança de Informação*. 2016. Rio Branco – Acre
 *	**“Minha Trajetória Profissional”.** *Feira de Informação Profissional. Palestra em evento ocorrido na Fundação Bradesco.* Rio Branco, Acre em 16/09/2016.
 *	**[A matemática de tudo](https://pt.slideshare.net/edkallenn/a-matemtica-de-tudo-edkallenn-lima)**. *Palestra apresentada na abertura da Semana da Matemática da Escola de Segundo Grau, Kairala José Kairala (KJK)* em Brasiléia-Acre. 2008.
