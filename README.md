@@ -65,6 +65,7 @@
 * [Meu curriculum Lattes](http://lattes.cnpq.br/3469088081618413)
 * [Meu perfil no LinkdIn](https://www.linkedin.com/in/edkallenn/)
 * [Meu Twitter](https://twitter.com/edkallenn)
+* [Meu Github](https://github.com/ed1rac)
 * [Meu blog no Wordpress](https://professored.wordpress.com/)
 * [Meu blog: Eu li nos livros](https://eulinoslivros.tumblr.com/)
 * [Meu blog no Medium](https://edkallenn.medium.com/)
