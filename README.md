@@ -229,9 +229,9 @@
 * Trabalho: (68) 3212-1211
 
 ### E-mails: 
-* profissional 1: [lima.esl@dpf.gov.br](mailto:lima.esl@dpf.gov.br)
+* profissional 1: [lima.esl@pf.gov.br](mailto:lima.esl@pf.gov.br)
 * profissional 2: [edkallenn.lima@uninorteac.edu.br](mailto:edkallenn.lima@uninorteac.edu.br)
 
 ### Endereços Profissionais:
 *	Centro Universitário UNINORTE. Alameda Hungria, 200. Jardim Europa II. 69915497 - Rio Branco, AC – Brasil. Telefone: (68) 33027070. URL da Homepage: <http://www.uninorteac.com.br>
-*	Superintendência da Polícia Federal no Acre. Rodovia BR 364, 3501 - Portal da Amazônia, Rio Branco - AC, 69915-630. Telefone: (68) 3212-1211. URL da Homepage: <http://www.pf.gov.br/institucional/unidades/superintendencias-e-delegacias/acre>
+*	Superintendência da Polícia Federal na Paraíba. Rua Aviador Mário Vieira de Melo, S/Nº. João Agripino. CEP: 58.034-045. João Pessoa - Paraíba.. Telefone: (83) 3565-8802 / 3565-8803 (24 horas). [URL da Homepage](https://www.gov.br/pf/pt-br/acesso-a-informacao/institucional/quem-e-quem/superintendencias-e-delegacias/paraiba/superintendencia-regional-da-paraiba)
