@@ -194,7 +194,7 @@
   *	Atualmente exercendo o cargo de **Policial Federal (Agente de Polícia Federal)** tendo realizado os seguintes serviços por ano:
     *	**Professor** de _Técnicas de Desenvolvimento de Algoritmos_, _Aplicações para a Internet_, _Estruturas de Dados I_ e _Estruturas de Dados II_. Cursos de _Ciência da Computação e Análise e Desenvolvimento de Sistemas_ no **Centro Universitário de João Pessoa (Unipê)**. (2023)     
     * Nomeado **chefe-substituto do NTI da Polícia Federal na Paraíba**. (fevereiro de 2023). Lotado na Unidade de Gestão Estratégica da Superintendência da Polícia Federal na Paraíba (fevereiro de 2023)
-   	*	Lotado no GRCC (Grupo de Repressão a Crimes Cibernéticos) da Superintendência da Polícia Federal em João Pessoa na Paraíba. (todo o ano de 2022 até março de 2023)
+    * Lotado no GRCC (Grupo de Repressão a Crimes Cibernéticos) da Superintendência da Polícia Federal em João Pessoa na Paraíba. (todo o ano de 2022 até março de 2023)
     *	Professor de Programação Orientada a Objetos e Programação Web. Cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas no Centro Universitário de João Pessoa (Unipê). (2022)
     *	Lotado no NTI/PB em João Pessoa; (a partir de março de 2022)
     *	Chefe do Núcleo de Tecnologia da Informação do Acre de 2012-2021; (na Superintendência Regional da Polícia Federal no Acre)
