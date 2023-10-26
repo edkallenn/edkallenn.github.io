@@ -24,10 +24,12 @@
 
 ## Perfil e experiência profissional
 
-* **Atualmente exerço o cargo de Policial Federal** (*Agente de Polícia Federal*) na Superintendência da Polícia Federal no Acre sendo __Chefe do Núcleo de Tecnologia da Informação__ de 2012-até hoje além de ser __Chefe da CS__ do mesmo órgão (Comunicação Social) de 2012 até hoje. 
-* **Atualmente sou professor** das disciplinas de __Estrutura de Dados__, __Matemática e Lógica Computacional__, __Programação Orientada a Objetos__, __Fundamentos de Programação e Algoritmos__, __POO para a Web__, __Gestão de TI__, __Estatística Computacional__, __Análise e Projeto Orientado a Objetos__, __Fundamentos de Sistemas de Informação__, __Empreendedorismo__ e __Linguagem de Programação__ nos cursos de __Sistemas de Informação, Redes de Computadores, Análise e Desenvolvimento de Sistemas e CST em Estética e Cosmética__ do [Centro Educacional Uninorte](https://www.google.com/url?q=https%3A%2F%2Fwww.uninorteac.edu.br%2F&sa=D&sntz=1&usg=AFQjCNEoyXtfhPLO0bNokcS3khzSjB_CtA)
+* **Atualmente exerço o cargo de Policial Federal** (*Agente de Polícia Federal*) na Superintendência da Polícia Federal na Paraíba sendo __Chefe-Substituto do Núcleo de Tecnologia da Informação__ de 2023-até hoje além de ser lotado na __Unidade de Gestão Estratégica__ do mesmo órgão (UGE) desde 2023 até hoje.
+* Foi **Chefe do Núcleo de Tecnologia da Informação** da _Polícia Federal no Acre_ desde **2011 até 2022**. Foi **chefe da Comunicação Social da Polícia Federal no Acre de 2010 até 2022**.
+* **Atualmente é professor** das disciplinas _Programação Orientada a Objetos_, _Programação Web_, _Estruturas de Dados I e II_, _Aplicações para a Internet_ e _Técnicas de Desenvolvimento de Algoritmos_ dos cursos de **Ciência da Computação**, **Análise e Desenvolvimento de Sistemas** e **Sistemas para Internet** da **Unipê - Centro Universitário de João Pessoa** na Paraíba. 
+* **Foi professor** das disciplinas de __Estrutura de Dados__, __Matemática e Lógica Computacional__, __Programação Orientada a Objetos__, __Fundamentos de Programação e Algoritmos__, __POO para a Web__, __Gestão de TI__, __Estatística Computacional__, __Análise e Projeto Orientado a Objetos__, __Fundamentos de Sistemas de Informação__, __Empreendedorismo__ e __Linguagem de Programação__ nos cursos de __Sistemas de Informação, Redes de Computadores, Análise e Desenvolvimento de Sistemas e CST em Estética e Cosmética__ do [Centro Educacional Uninorte](https://www.google.com/url?q=https%3A%2F%2Fwww.uninorteac.edu.br%2F&sa=D&sntz=1&usg=AFQjCNEoyXtfhPLO0bNokcS3khzSjB_CtA)
 (além de já ter ministrado no mesmo Centro universitário, em 2007, as disciplinas de __Algoritmos__ e __Álgebra Relacional__). 
-* **Professor** de __Perícia Forense Computacional__ e __Segurança de Sistemas Computacionais__ no curso de __Pós-Graduação em Computação Forense__ do [Centro Educacional Uninorte](https://www.google.com/url?q=https%3A%2F%2Fwww.uninorteac.edu.br%2F&sa=D&sntz=1&usg=AFQjCNEoyXtfhPLO0bNokcS3khzSjB_CtA).(2020-2021)
+* **Foi Professor** de __Perícia Forense Computacional__ e __Segurança de Sistemas Computacionais__ no curso de __Pós-Graduação em Computação Forense__ do [Centro Educacional Uninorte](https://www.google.com/url?q=https%3A%2F%2Fwww.uninorteac.edu.br%2F&sa=D&sntz=1&usg=AFQjCNEoyXtfhPLO0bNokcS3khzSjB_CtA).(2020-2021)
 * *Tenho experiência* na área de *Ciência da Computação*, com ênfase em *Sistemas de Informação, Programação, Algoritmos, Estruturas de Dados, Matemática e Complexidade Computacional*. 
 * Tem *experiência com desenvolvimento, implantação e análise de soluções de TI em âmbito empresarial e governamental* já tendo participado e liderado projetos de *desenvolvimento, implantação, gestão e modificação de sistemas* nas mais diversas plataformas utilizando *tecnologias livres e proprietárias* para as mais diversas arquiteturas como **Linux, Windows e Solaris** (Unix-like/POSIX). 
 * Tenho *bastante experiência* em **didática** sendo professor há mais de duas décadas (e de nível superior desde 2007). 
@@ -75,7 +77,7 @@
 
 ## Grau de Instrução
 
-*	**Mestre em Ciência da Computação. Universidade Federal do Acre, UFAC**. *Projeto: “Mineração de dados e aprendizagem de máquina na detecção de conflitos diretos e indiretos entre políticas de controle de acesso”*. Orientação da Dra. Laura Costa Sarkis. 2021.
+*	**Mestre em Ciência da Computação. Universidade Federal do Acre, UFAC**. *Projeto: “Mineração de dados e aprendizagem de máquina na detecção de conflitos diretos e indiretos entre políticas de controle de acesso”*. Orientação da Dra. Laura Costa Sarkis. 2021. [Link aqui](https://ed1rac.github.io/Dissertacao-Ed/)
 *	**Pós-Graduado, lato sensu, em Gerência de Bancos de Dados** (Carga Horária: 360h). Centro Universitário Uninorte. 2020.
 *	**Pós-graduado, lato sensu, em Computação Forense.** (Carga Horária: 360h). Faculdade Barão do Rio Branco, UNINORTE, Brasil. Título da Monografia: *“Perícia Forense em sistemas GNU/LINUX usando programação em shell script”.* Orientadora: [Dra. Andreia Cristiane Stanger. ]((http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4732443D0)).2013-2015.
 *	**Mestrado em Informática pela UFAM** (Universidade Federal do Amazonas – Conceito CAPES 5 – __Incompleto__)
@@ -128,7 +130,11 @@
 - [Minicurso de Python](http://ed1rac.github.io/Mini-Curso-de-Python-3.0/)
 
 ## Cursos, estágios e Seminários
-*	XLVIII Curso de Formação Profissional de Agente de Polícia Federal (regional). (Carga horária: 830h). Academia Nacional de Polícia. Departamento de Polícia Federal, DPF, Brasil. 2007.
+*	XLVIII Curso de Formação Profissional de Agente de Polícia Federal (regional). (Carga horária: 830h). Academia Nacional de Polícia. Polícia Federal, PF, Brasil. 2007.
+*	Curso de Combate ao Abuso Sexual Infantojuvenil pela Internet e Crimes Conexos.  Academia Nacional de Polícia. Polícia Federal, PF, Brasil. 2022.2. 24 de maio a 20 de junho de 2022. 30 horas.
+*	IV Curso da Ferramenta Oracle Application Express (Apex) - Módulo Básico. 27 a 31 de março de 2023. Academia Nacional de Polícia. Polícia Federal, PF, Brasil. 40 horas.
+*	Encontro de Gestores e Investigadores de Crimes Relacionados a Abuso Sexual Infantil. Edifício-sede da Polícia Federal. Brasília-DF, PF, Brasil. 40 horas.
+*	Curso de Suprimento de fundos. Academia Nacional de Polícia. Polícia Federal, PF, Brasil. 2022. 60 horas.
 *	Curso de Aperfeiçoamento Profissional para Classe Especial - APF - Turma 1/2017. (Carga horária: 180h). Polícia Federal. De 06/03/2017 a 30/06/2017. 
 *	Curso Básico de Combate a Crimes Cibernéticos - 2018.01. Carga horária: 60 horas. Academia Nacional de Polícia. Polícia Federal, DPF, Brasil, 2018. De 07 de agosto a 03 de setembro de 2018. 
 *	Curso de Fraudes Eletrônicas e Crimes de Alta Tecnologia – Região Norte e Centro-Oeste oferecido pela ANP (Academia Nacional de Polícia) em Brasília-DF de 30/03/2009 a 03/04/2009.
@@ -186,6 +192,10 @@
 
 ## Experiência profissional por ano
   *	Atualmente exercendo o cargo de **Policial Federal (Agente de Polícia Federal)** tendo realizado os seguintes serviços por ano:
+    *	**Professor** de _Técnicas de Desenvolvimento de Algoritmos_, _Aplicações para a Internet_, _Estruturas de Dados I_ e _Estruturas de Dados II_. Cursos de _Ciência da Computação e Análise e Desenvolvimento de Sistemas_ no **Centro Universitário de João Pessoa (Unipê)**. (2023)     
+    * Nomeado **chefe-substituto do NTI da Polícia Federal na Paraíba**. (fevereiro de 2023). Lotado na Unidade de Gestão Estratégica da Superintendência da Polícia Federal na Paraíba (fevereiro de 2023)
+   	*	Lotado no GRCC (Grupo de Repressão a Crimes Cibernéticos) da Superintendência da Polícia Federal em João Pessoa na Paraíba. (todo o ano de 2022 até março de 2023)
+    *	Professor de Programação Orientada a Objetos e Programação Web. Cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas no Centro Universitário de João Pessoa (Unipê). (2022)
     *	Lotado no NTI/PB em João Pessoa; (a partir de março de 2022)
     *	Chefe do Núcleo de Tecnologia da Informação do Acre de 2012-2021; (na Superintendência Regional da Polícia Federal no Acre)
     *	Chefe da CS do mesmo órgão (Comunicação Social) de 2012 até hoje. (na Superintendência Regional da Polícia Federal no Acre)
@@ -209,7 +219,7 @@
   * **Professor** das disciplinas: (do **curso de Pós-graduação** em **"Computação Forense"** no Centro Educacional Uninorte - de 2020 a 2021)
     * Segurança em Sistemas Computacionais e
     * Perícia Forense Computacional I
-*	**Professor, de nível superior**, das disciplinas “Fundamentos de Programação e Algoritmos” (2º período) e “Estruturas de Dados” (3º período) do Curso de Bacharel em Sistemas de Informação da Faculdade União Educacional do Norte (UNINORTE). 2012 a 2013. 
+*	**Professor, de nível superior**, das disciplinas "Fundamentos de Programação e Algoritmos" (2º período) e "Estruturas de Dados" (3º período) do Curso de Bacharel em Sistemas de Informação da Faculdade União Educacional do Norte (UNINORTE). 2012 a 2013. 
 *	**Professor, nível superior,** das disciplinas de Algoritmos e Álgebra Relacional na Faculdade União Educacional do Norte (UNINORTE) em 2007, 1º semestre.
 *	**Professor** do Curso de Webdesign com habilitação em HTML, Dreamweaver, Flash, Fireworks e Publicação na SOS Informática em Rio Branco – Acre (1º Semestre de 2007).
 *	**Webmaster e Webdesigner** de diversos sites comerciais na Internet. Com experiência de mais de oito anos no exercício dessas funções. (2004-até hoje).
@@ -226,12 +236,12 @@
 
 ## Suporte ou Contato
 ### Telefones: 
-* Trabalho: (68) 3212-1211
+* Trabalho: (83) 3565-8767
 
 ### E-mails: 
 * profissional 1: [lima.esl@pf.gov.br](mailto:lima.esl@pf.gov.br)
-* profissional 2: [edkallenn.lima@uninorteac.edu.br](mailto:edkallenn.lima@uninorteac.edu.br)
+* profissional 2: [edkallennl@unipe.edu.br](mailto:edkallennl@unipe.edu.br)
 
 ### Endereços Profissionais:
-*	Centro Universitário UNINORTE. Alameda Hungria, 200. Jardim Europa II. 69915497 - Rio Branco, AC – Brasil. Telefone: (68) 33027070. URL da Homepage: <http://www.uninorteac.com.br>
+*	Centro Universitário UNIPÊ. Rodovia BR-230, KM 22, Água Fria – João Pessoa – PB CEP 58053-000. Telefone: (83) 3003-1189. URL da Homepage:[https://www.unipe.edu.br/](https://www.unipe.edu.br/)
 *	Superintendência da Polícia Federal na Paraíba. Rua Aviador Mário Vieira de Melo, S/Nº. João Agripino. CEP: 58.034-045. João Pessoa - Paraíba.. Telefone: (83) 3565-8802 / 3565-8803 (24 horas). [URL da Homepage](https://www.gov.br/pf/pt-br/acesso-a-informacao/institucional/quem-e-quem/superintendencias-e-delegacias/paraiba/superintendencia-regional-da-paraiba)
