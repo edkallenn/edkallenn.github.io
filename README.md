@@ -265,15 +265,13 @@
 [![Linkedin: Edkallenn](https://img.shields.io/badge/-edkallenn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edkallenn/)](https://www.linkedin.com/in/edkallenn/)
 [![Medium: Edkallenn](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@edkallenn)
 [![GitHub Edkallenn](https://img.shields.io/github/followers/edkallenn?label=follow&style=social)](https://github.com/edkallenn)
-![Badge](https://img.shields.io/badge/prof-Ed-blue?style=flat&logo=github
-)
-[![Facebook](https://img.shields.io/badge/Facebook-Edkallenn-blue?style=social&logo=facebook)](http://www.facebook.com/edkallenn)
-[![Instagram](https://img.shields.io/badge/Instagram-Edkallenn-blue?style=social&logo=instagram)](http://instagram.com/edkallenn)
+[![Facebook: Edkallenn](https://img.shields.io/badge/Follow-%40edkallenn-blue?style=social&logo=facebook)](http://www.facebook.com/edkallenn)
+[![Instagram: Edkallenn](https://img.shields.io/badge/Follow-%40edkallenn-blue?style=social&logo=instagram)](http://instagram.com/edkallenn)
+[![StackOverflow: Edkallenn](https://img.shields.io/badge/Follow-%40edkallenn-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/edkallenn)
+[![YouTube: Edkallenn](https://img.shields.io/badge/Follow-%40edkallenn-red?style=social&logo=youtube)](https://www.youtube.com/@edkallenn)
+[![Slideshare: Edkallenn](https://img.shields.io/badge/Follow-%40edkallenn-blue?style=social&logo=slideshare)](https://pt.slideshare.net/edkallenn/presentations)
 [![Lattes](https://img.shields.io/badge/Lattes-Edkallenn-blue?style=flat-square&logo=cnpq)](http://lattes.cnpq.br/3469088081618413)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Edkallenn-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/edkallenn)
-[![Quora](https://img.shields.io/badge/Quora-Edkallenn-red?style=flat-square&logo=quora)](https://pt.quora.com/profile/Edkallenn-Lima)
-[![YouTube](https://img.shields.io/badge/YouTube-Edkallenn-red?style=social&logo=youtube)](https://www.youtube.com/@edkallenn)
-[![Slideshare](https://img.shields.io/badge/Slideshare-Edkallenn-blue?style=social&logo=slideshare)](https://pt.slideshare.net/edkallenn/presentations)
+
 
 
 <h3 align="center"> Você pode me encontrar também em... :alien: :</h3>
