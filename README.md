@@ -276,7 +276,7 @@
 
 
 
-<h3 align="center"> Você pode me encontrar também em... 👽:</h3>
+<h3 align="center"> Você pode me encontrar usando os links abaixo... 👽:</h3>
 
 <p align="center">
 
