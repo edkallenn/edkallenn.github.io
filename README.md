@@ -261,6 +261,8 @@
 *	Centro Universitário UNIPÊ. Rodovia BR-230, KM 22, Água Fria – João Pessoa – PB CEP 58053-000. Telefone: (83) 3003-1189. URL da Homepage:[https://www.unipe.edu.br/](https://www.unipe.edu.br/)
 *	Superintendência da Polícia Federal na Paraíba. Rua Aviador Mário Vieira de Melo, S/Nº. João Agripino. CEP: 58.034-045. João Pessoa - Paraíba.. Telefone: (83) 3565-8802 / 3565-8803 (24 horas). [URL da Homepage](https://www.gov.br/pf/pt-br/acesso-a-informacao/institucional/quem-e-quem/superintendencias-e-delegacias/paraiba/superintendencia-regional-da-paraiba)
 
+### Outros contatos e redes sociais
+
 [![Twitter: Edkallenn](https://img.shields.io/twitter/follow/edkallenn?style=social)](https://twitter.com/edkallenn)
 [![Linkedin: Edkallenn](https://img.shields.io/badge/-edkallenn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edkallenn/)](https://www.linkedin.com/in/edkallenn/)
 [![Medium: Edkallenn](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@edkallenn)
@@ -274,7 +276,7 @@
 
 
 
-<h3 align="center"> Você pode me encontrar também em... :alien: :</h3>
+<h3 align="center"> Você pode me encontrar também em... 👽:</h3>
 
 <p align="center">
 
