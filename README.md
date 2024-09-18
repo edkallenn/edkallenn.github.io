@@ -328,7 +328,7 @@
   </p>
 
 ---
-<h2 align="center">Minha stack de desenvolvimento :man_technologist:</h2>
+<h2 align="center">Minha stack de desenvolvimento 👨‍💻</h2>
 
 <p align="center">Ferramentas que uso diariamente, ou que usei ou trabalhei (muito ou pouco) no passado</p>
 <p align="center">
@@ -456,7 +456,7 @@
 -->
 </p>
 
-<h2 align="center">Minhas liguagens mais usadas no último ano :tongue:</h2>
+<h2 align="center">Minhas liguagens mais usadas no último ano 👅</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed1rac&langs_count=10&theme=tokyonight&layout=compact" alt="Ed1rac :: Top Langs" /></p>
 
@@ -466,4 +466,8 @@
 
 <h3 align="center"><code>"We're made of star stuff. We are a way for the cosmos to know itself"</code><br>- <i>Carl Sagan</i></h2>
 
+<br>
+
 ⭐️ From [@Edkallenn](https://github.com/ed1rac)
+
+---
