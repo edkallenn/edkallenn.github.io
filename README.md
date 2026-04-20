@@ -61,7 +61,7 @@
 ### Textos em jornais de notícias/revistas:
 
 *	**TI: A aliada invisível na segurança pública.** Livro: MATEMÁTICA E AS TECNOLOGIAS DA INFORMAÇÃO, p. 1 - 1, 06 set. 2011.[Link para o artigo na web](http://matematicadainformacao.blogspot.com/2011/09/ti-aliada-invisivel-na-seguranca.html)
-*	**Colunista no jornal "A Tribuna do Acre". [Exemplo de texto](https://atribunadoacre.com.br/artigo-brasil-ingovernavel-entre-a-sabotagem-interna-e-os-interesses-plutocraticos/).
+*	**Colunista no jornal "A Tribuna do Acre"**. [Exemplo de texto](https://atribunadoacre.com.br/artigo-brasil-ingovernavel-entre-a-sabotagem-interna-e-os-interesses-plutocraticos/).
 
 ### Demais trabalhos bibliográficos:
 
